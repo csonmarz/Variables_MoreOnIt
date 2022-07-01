@@ -1,0 +1,18 @@
+integer initMass
+integer growthRate
+integer yearsGrow
+integer finalMass
+
+initMass = Get next input
+
+//Get growth rate, Ex 0.05 is 5%/year
+growthRate= Get next input
+
+yearsGrow= Get next input
+
+//Ex: Rate of 0.05 yields initMass*1.05^yearsGrow
+Put " Final mass after " to output
+
+Put yearsGrow to output
+Put " years is: " to output
+Put finalMass to output

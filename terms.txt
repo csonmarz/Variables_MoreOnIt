@@ -1,0 +1,35 @@
+● Function
+- A function is a list of statements executed by invoking 
+the function's name, with such invoking known 
+as a function call. 
+
+● Function Declaration
+- to declare a function
+
+● Function Call
+- A lists of Statements also known as a function, is 
+executed by invoking the function's name, with such 
+invoking known as a function call.
+
+● Arguments
+- Any function input values, or arguments, appear 
+within ( ), and are separated by commas if more than one.
+
+● Type Casting
+- a conversion of one data to another 
+
+● Implicit Conversion
+- Coral automatically performs several common conversions 
+between integer and float types, and such automatic 
+conversion is known as implicit conversion.
+
+● Explicit Converstion*
+- to manually convert values of one data type to another type
+
+● Modulo
+- The modulo operator (%) evaluates to the remainder
+of the division of two integer operands. Ex: 23 % 10 is 3.
+
+● Constant
+- A constant is a named value item that holds a value 
+that cannot change.
